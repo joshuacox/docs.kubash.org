@@ -1,0 +1,36 @@
+matrix:
+  include:
+  - os: linux
+    dist: trusty
+    sudo: false
+    cache:
+      directories:
+      - "$HOME/.npm"
+      - ".git"
+      - ".cache"
+      - ".node_modules"
+    env:
+    - builder=travis
+language: node_js
+node_js:
+- 8
+
+before_install:
+- if [[ "$TRAVIS_OS_NAME" == "linux" ]]; then npm install -g eslint gatsby-cli gh-pages;
+  fi
+script:
+- npm i
+- gatsby build
+- ls -alh
+  #- npm run lint
+deploy:
+  provider: pages
+  skip-cleanup: true
+  github-token: "$GITHUB_TOKEN"
+  keep-history: false
+  local-dir: public
+  target-branch: gh-pages
+  fqdn: docs.kubash.org
+  verbose: true
+  on:
+    branch: master
