@@ -1,0 +1,92 @@
+{
+  "assetsByChunkName": {
+    "path---": [
+      "path----557518bd178906f8d58a.js",
+      "path----557518bd178906f8d58a.js.map"
+    ],
+    "path---lesson-one": [
+      "path---lesson-one-b0840966b1a97aba05bb.js",
+      "path---lesson-one-b0840966b1a97aba05bb.js.map"
+    ],
+    "path---lesson-four": [
+      "path---lesson-four-f3c1fd4052ab1f12a453.js",
+      "path---lesson-four-f3c1fd4052ab1f12a453.js.map"
+    ],
+    "component---src-layouts-index-jsx": [
+      "component---src-layouts-index-jsx-27187e398363ea75b6ac.js",
+      "component---src-layouts-index-jsx-27187e398363ea75b6ac.js.map"
+    ],
+    "path---categories-tech": [
+      "path---categories-tech-b53b68288f3e8b92d546.js",
+      "path---categories-tech-b53b68288f3e8b92d546.js.map"
+    ],
+    "path---lesson-five": [
+      "path---lesson-five-47c8c502f20d34664ca5.js",
+      "path---lesson-five-47c8c502f20d34664ca5.js.map"
+    ],
+    "component---node-modules-gatsby-plugin-offline-app-shell-js": [
+      "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js",
+      "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js.map"
+    ],
+    "component---src-templates-lesson-jsx": [
+      "component---src-templates-lesson-jsx-a3a9c2cf5288fc7ad9a2.js",
+      "component---src-templates-lesson-jsx-a3a9c2cf5288fc7ad9a2.js.map"
+    ],
+    "path---lesson-two": [
+      "path---lesson-two-642068805d2461ca0fbd.js",
+      "path---lesson-two-642068805d2461ca0fbd.js.map"
+    ],
+    "component---src-templates-category-jsx": [
+      "component---src-templates-category-jsx-3a50fee79b9519c47f96.js",
+      "component---src-templates-category-jsx-3a50fee79b9519c47f96.js.map"
+    ],
+    "path---index": [
+      "path---index-10458e9216de8ba3fa54.js",
+      "path---index-10458e9216de8ba3fa54.js.map"
+    ],
+    "component---src-pages-about-jsx": [
+      "component---src-pages-about-jsx-daa64a6926a02d1ba7ff.js",
+      "component---src-pages-about-jsx-daa64a6926a02d1ba7ff.js.map"
+    ],
+    "path---post-one": [
+      "path---post-one-f0e4a357bc589246bd89.js",
+      "path---post-one-f0e4a357bc589246bd89.js.map"
+    ],
+    "path---lesson-six": [
+      "path---lesson-six-868654997d0900447e47.js",
+      "path---lesson-six-868654997d0900447e47.js.map"
+    ],
+    "commons": [
+      "commons-113dc48104e56b5b8158.js",
+      "build-js-styles.css",
+      "commons-113dc48104e56b5b8158.js.map",
+      "build-js-styles.css.map"
+    ],
+    "path---lesson-three": [
+      "path---lesson-three-2b26ebdd7d95d92cff70.js",
+      "path---lesson-three-2b26ebdd7d95d92cff70.js.map"
+    ],
+    "path---offline-plugin-app-shell-fallback": [
+      "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js",
+      "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-templates-post-jsx": [
+      "component---src-templates-post-jsx-a741e8bbfe6228317d16.js",
+      "component---src-templates-post-jsx-a741e8bbfe6228317d16.js.map"
+    ],
+    "component---src-pages-index-jsx": [
+      "component---src-pages-index-jsx-ef894090bba5c4449feb.js",
+      "component---src-pages-index-jsx-ef894090bba5c4449feb.js.map"
+    ],
+    "app": [
+      "app-bb96c81179f107d8a2a8.js",
+      "build-js-styles.css",
+      "app-bb96c81179f107d8a2a8.js.map",
+      "build-js-styles.css.map"
+    ],
+    "path---about": [
+      "path---about-a0e39f21c11f6a62c5ab.js",
+      "path---about-a0e39f21c11f6a62c5ab.js.map"
+    ]
+  }
+}
