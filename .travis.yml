@@ -17,7 +17,7 @@ node_js:
 
 before_install:
 - sudo apt-get install -yqq jq
-- curl https://jsonplaceholder.typicode.com/posts/1 |  jq -r '.'
+- curl https://jsonplaceholder.typicode.com/posts/1 |  jq
 - if [[ "$TRAVIS_OS_NAME" == "linux" ]]; then npm install -g eslint gatsby-cli gh-pages;
   fi
 script:
